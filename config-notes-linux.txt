@@ -1,0 +1,3 @@
+virtual box kernel modules may not be available after default installation of vitualbox. it must be present for vagrant to work with it.
+
+also, VT must be enable.
